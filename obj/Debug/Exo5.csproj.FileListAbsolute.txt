@@ -1,0 +1,7 @@
+C:\Users\Moi\source\conditions\Exo5\Exo5\bin\Debug\Exo5.exe.config
+C:\Users\Moi\source\conditions\Exo5\Exo5\bin\Debug\Exo5.exe
+C:\Users\Moi\source\conditions\Exo5\Exo5\bin\Debug\Exo5.pdb
+C:\Users\Moi\source\conditions\Exo5\Exo5\obj\Debug\Exo5.csprojAssemblyReference.cache
+C:\Users\Moi\source\conditions\Exo5\Exo5\obj\Debug\Exo5.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\conditions\Exo5\Exo5\obj\Debug\Exo5.exe
+C:\Users\Moi\source\conditions\Exo5\Exo5\obj\Debug\Exo5.pdb
